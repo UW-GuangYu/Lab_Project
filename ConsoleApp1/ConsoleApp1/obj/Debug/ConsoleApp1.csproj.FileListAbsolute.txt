@@ -1,0 +1,12 @@
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.SharePoint.Client.xml
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Gwu\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
