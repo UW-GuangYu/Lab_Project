@@ -1,0 +1,13 @@
+﻿  Weighted_graph_driver.cpp
+c:\users\vvvrr\desktop\ece 250\lab5\project.5\ece250.h(503): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vvvrr\desktop\ece 250\lab5\project.5\ece250.h(503): warning C5043: 'operator new': exception specification does not match previous declaration
+  c:\users\vvvrr\desktop\ece 250\lab5\ece250p5\ece250p5\predefined c++ types (compiler internal)(33): note: see declaration of 'operator new'
+c:\users\vvvrr\desktop\ece 250\lab5\project.5\ece250.h(542): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vvvrr\desktop\ece 250\lab5\project.5\ece250.h(542): warning C5043: 'operator new[]': exception specification does not match previous declaration
+  c:\users\vvvrr\desktop\ece 250\lab5\ece250p5\ece250p5\predefined c++ types (compiler internal)(58): note: see declaration of 'operator new[]'
+c:\users\vvvrr\desktop\ece 250\lab5\project.5\weighted_graph.h(124): warning C4805: '==': unsafe mix of type 'bool' and type 'std::numeric_limits<double>::_Ty' in operation
+c:\users\vvvrr\desktop\ece 250\lab5\project.5\weighted_graph.h(139): warning C4805: '==': unsafe mix of type 'bool' and type 'std::numeric_limits<double>::_Ty' in operation
+  speed2.cpp
+  speed.cpp
+  Generating Code...
+  ECE250P5.vcxproj -> C:\Users\vvvrr\Desktop\ECE 250\lab5\ECE250P5\Debug\ECE250P5.exe

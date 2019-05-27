@@ -1,0 +1,27 @@
+﻿  Resizable_deque_driver.cpp
+c:\users\vvvrr\desktop\250 lab\lab2\project.2\ece250.h(503): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vvvrr\desktop\250 lab\lab2\project.2\ece250.h(503): warning C5043: 'operator new': exception specification does not match previous declaration
+  c:\users\vvvrr\desktop\250 lab\lab2\ece250_p2\ece250_p2\predefined c++ types (compiler internal)(33): note: see declaration of 'operator new'
+c:\users\vvvrr\desktop\250 lab\lab2\project.2\ece250.h(543): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vvvrr\desktop\250 lab\lab2\project.2\ece250.h(543): warning C5043: 'operator new[]': exception specification does not match previous declaration
+  c:\users\vvvrr\desktop\250 lab\lab2\ece250_p2\ece250_p2\predefined c++ types (compiler internal)(58): note: see declaration of 'operator new[]'
+c:\users\vvvrr\desktop\250 lab\lab2\project.2\resizable_deque.h(273): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  c:\users\vvvrr\desktop\250 lab\lab2\project.2\resizable_deque.h(250): note: while compiling class template member function 'void Resizable_deque<Type>::push_back(const Type &)'
+          with
+          [
+              Type=double
+          ]
+  c:\users\vvvrr\desktop\250 lab\lab2\project.2\resizable_deque_tester.h(219): note: see reference to function template instantiation 'void Resizable_deque<Type>::push_back(const Type &)' being compiled
+          with
+          [
+              Type=double
+          ]
+  c:\users\vvvrr\desktop\250 lab\lab2\project.2\resizable_deque_tester.h(83): note: see reference to class template instantiation 'Resizable_deque<Type>' being compiled
+          with
+          [
+              Type=double
+          ]
+  c:\users\vvvrr\desktop\250 lab\lab2\project.2\resizable_deque_tester.h(81): note: while compiling class template member function 'void Resizable_deque_tester<double>::process(void)'
+  c:\users\vvvrr\desktop\250 lab\lab2\project.2\resizable_deque_driver.cpp(41): note: see reference to class template instantiation 'Resizable_deque_tester<double>' being compiled
+c:\users\vvvrr\desktop\250 lab\lab2\project.2\resizable_deque.h(286): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ECE250_P2.vcxproj -> C:\Users\vvvrr\Desktop\250 lab\lab2\ECE250_P2\Debug\ECE250_P2.exe

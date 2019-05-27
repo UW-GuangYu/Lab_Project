@@ -1,0 +1,27 @@
+﻿  test.cpp
+c:\users\vvvrr\desktop\ece 250\lab3\project.3\ece250.h(503): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vvvrr\desktop\ece 250\lab3\project.3\ece250.h(503): warning C5043: 'operator new': exception specification does not match previous declaration
+  c:\users\vvvrr\desktop\ece 250\lab3\ece250_p3\ece250_p3\predefined c++ types (compiler internal)(33): note: see declaration of 'operator new'
+c:\users\vvvrr\desktop\ece 250\lab3\project.3\ece250.h(542): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vvvrr\desktop\ece 250\lab3\project.3\ece250.h(542): warning C5043: 'operator new[]': exception specification does not match previous declaration
+  c:\users\vvvrr\desktop\ece 250\lab3\ece250_p3\ece250_p3\predefined c++ types (compiler internal)(58): note: see declaration of 'operator new[]'
+c:\users\vvvrr\desktop\ece 250\lab3\project.3\search_tree.h(355): error C2039: 'max': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\string(15): note: see declaration of 'std'
+  c:\users\vvvrr\desktop\ece 250\lab3\project.3\search_tree.h(311): note: while compiling class template member function 'bool Search_tree<int>::Node::insert(const Type &,Search_tree<Type>::Node *&)'
+          with
+          [
+              Type=int
+          ]
+  c:\users\vvvrr\desktop\ece 250\lab3\project.3\search_tree.h(224): note: see reference to function template instantiation 'bool Search_tree<int>::Node::insert(const Type &,Search_tree<Type>::Node *&)' being compiled
+          with
+          [
+              Type=int
+          ]
+  c:\users\vvvrr\desktop\ece 250\lab3\project.3\search_tree.h(119): note: see reference to class template instantiation 'Search_tree<int>::Node' being compiled
+  c:\users\vvvrr\desktop\ece 250\lab3\project.3\search_tree.h(116): note: while compiling class template member function 'Search_tree<int>::Search_tree(void)'
+  c:\users\vvvrr\desktop\ece 250\lab3\project.3\test.cpp(5): note: see reference to function template instantiation 'Search_tree<int>::Search_tree(void)' being compiled
+  c:\users\vvvrr\desktop\ece 250\lab3\project.3\test.cpp(5): note: see reference to class template instantiation 'Search_tree<int>' being compiled
+c:\users\vvvrr\desktop\ece 250\lab3\project.3\search_tree.h(355): error C3861: 'max': identifier not found
+c:\users\vvvrr\desktop\ece 250\lab3\project.3\search_tree.h(404): error C2039: 'max': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\string(15): note: see declaration of 'std'
+c:\users\vvvrr\desktop\ece 250\lab3\project.3\search_tree.h(404): error C3861: 'max': identifier not found

@@ -1,0 +1,31 @@
+﻿  Double_sentinel_list_driver.cpp
+c:\users\vvvrr\desktop\250 lab\lab1\project.1\ece250.h(503): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vvvrr\desktop\250 lab\lab1\project.1\ece250.h(503): warning C5043: 'operator new': exception specification does not match previous declaration
+  c:\users\vvvrr\desktop\250 lab\lab1\ece250 p1\ece250 p1\predefined c++ types (compiler internal)(33): note: see declaration of 'operator new'
+c:\users\vvvrr\desktop\250 lab\lab1\project.1\ece250.h(542): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vvvrr\desktop\250 lab\lab1\project.1\ece250.h(542): warning C5043: 'operator new[]': exception specification does not match previous declaration
+  c:\users\vvvrr\desktop\250 lab\lab1\ece250 p1\ece250 p1\predefined c++ types (compiler internal)(58): note: see declaration of 'operator new[]'
+c:\users\vvvrr\desktop\250 lab\lab1\project.1\double_sentinel_list.h(203): warning C4552: '!=': operator has no effect; expected operator with side-effect
+  c:\users\vvvrr\desktop\250 lab\lab1\project.1\double_sentinel_list.h(202): note: while compiling class template member function 'Double_sentinel_list<Type>::Double_node *Double_sentinel_list<Type>::find(const Type &) const'
+          with
+          [
+              Type=int
+          ]
+  c:\users\vvvrr\desktop\250 lab\lab1\project.1\double_sentinel_list_tester.h(240): note: see reference to function template instantiation 'Double_sentinel_list<Type>::Double_node *Double_sentinel_list<Type>::find(const Type &) const' being compiled
+          with
+          [
+              Type=int
+          ]
+  c:\users\vvvrr\desktop\250 lab\lab1\project.1\double_sentinel_list_tester.h(88): note: see reference to class template instantiation 'Double_sentinel_list<Type>' being compiled
+          with
+          [
+              Type=int
+          ]
+  c:\users\vvvrr\desktop\250 lab\lab1\project.1\double_sentinel_list_tester.h(86): note: while compiling class template member function 'void Double_sentinel_list_tester<int>::process(void)'
+  c:\users\vvvrr\desktop\250 lab\lab1\project.1\double_sentinel_list_driver.cpp(38): note: see reference to class template instantiation 'Double_sentinel_list_tester<int>' being compiled
+c:\users\vvvrr\desktop\250 lab\lab1\project.1\double_sentinel_list.h(203): warning C4553: '==': operator has no effect; did you intend '='?
+  Generating Code...
+  Compiling...
+  test.cpp
+  Generating Code...
+  ECE250 P1.vcxproj -> C:\Users\vvvrr\Desktop\250 lab\lab1\ECE250 P1\Debug\ECE250 P1.exe
